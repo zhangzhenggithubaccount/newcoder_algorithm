@@ -1,4 +1,8 @@
-//breadth first search
+function TreeNode(x) {
+    this.val = x;
+    this.left = null;
+    this.right = null;
+} 
 function TreeNode(x) {
     this.val = x;
     this.left = null;
